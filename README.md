@@ -5,10 +5,10 @@
 使用注意:Mac用户编译latex需要下载TexLive的 Mac版本——MacTex，但是新版本（2018）的MacTex与此模板存在兼容问题。
 
 解决方法:
-1、安装mactex-20140525.pkg。这个版本可以在6维空间快速下载。如需帮助请看4
+1、安装mactex-20140525.pkg。这个版本可以在6维空间快速下载。如需帮助请看4。
 2、解压BnuThesis文件，打开main.tex, 选择XeLaTeX模式排版编译。
 3、Mac用户强烈建议使用TexPad编辑器（付费软件）进行编译，用户界面友好，使用前请下载相关宏包，建议下载除去小语种宏包之外的所有宏包。
-4、注：北师大学生可以私信我（bwtongbw@outlook.com）获取 MacTex—20140525文件包+TexPad破解安装包（请支持正版），时间宽裕可答疑解惑。
+4、北师大学生可以私信我（bwtongbw@outlook.com）获取 MacTex—20140525文件包+TexPad破解安装包（请支持正版），时间宽裕可答疑解惑。
  
 以下说明 搬运自 http://gerry.lamost.org/blog/?p=811 链接可找到适用于Windows的模版
 
